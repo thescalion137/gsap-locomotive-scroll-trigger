@@ -1,0 +1,7 @@
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  background: steelblue;
+  padding: calc(50vh - 50px) 0;
+}

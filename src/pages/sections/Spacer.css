@@ -1,0 +1,9 @@
+.spacer {
+  width: 100%;
+  height: 75vh;
+  background: gainsboro;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6vmin;
+}

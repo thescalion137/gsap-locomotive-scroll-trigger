@@ -1,0 +1,7 @@
+.about {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  background: orange;
+  padding: calc(50vh - 50px) 0;
+}

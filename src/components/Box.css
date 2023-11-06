@@ -1,0 +1,10 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background: gainsboro;
+  margin-left: calc(50vw - 50px);
+}
+
+.box:not(:last-of-type) {
+  margin-bottom: calc(50vw - 50px);
+}
